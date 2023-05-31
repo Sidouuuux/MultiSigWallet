@@ -1,7 +1,6 @@
 
-# ✨ Decentralized Subscription system ✨
-This project is an Ethereum-based subscription app that allows users to buy different subscription plans, choose the duration of the subscription, add users to their subscription, mint an NFT upon subscription purchase, and transfer ownership of the NFT to transfer the subscription, so the user can sell his subscription plan.
-
+# ✨ Multisig Wallet ✨
+The MultiSigWallet smart contract allows multiple owners to collectively manage and control the funds stored in the wallet. Transactions sent from the wallet require a specified number of confirmations from the owners before they can be executed. The contract provides functions for depositing funds, submitting transactions, confirming transactions, executing confirmed transactions, revoking confirmations, and retrieving transaction details. With the MultiSigWallet, users can ensure enhanced security and decentralized decision-making for managing shared funds.
 # Requirements 🔧
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
