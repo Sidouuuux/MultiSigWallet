@@ -33,6 +33,11 @@ npx hardhat test
 npx hardhat coverage
 ```
 
+## Generate smart contract documentation 📝
+
+```
+npx hardhat docgen
+```
 ## Estimate gas 💸
 
 You can estimate how much gas things cost by running:
